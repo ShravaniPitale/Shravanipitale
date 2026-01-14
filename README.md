@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&weight=1000&size=40&center=true&vCenter=true&width=800&height=100&duration=2000&pause=1000&color=1E90FF&lines=HELLO!👋;I'm+Shravani+Pitale;Welcome+to+my+GitHub+profile!" />
 </h1>
 ---
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShravaniPitale&bg_color=ffffff&color=1E90FF&line=1E90FF&point=1E90FF&hide_border=true)
 
 ### About Me
