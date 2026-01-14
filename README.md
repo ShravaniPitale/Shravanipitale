@@ -33,7 +33,8 @@ Always open to learning, collaboration, and meaningful conversations.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ShravaniPitale)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Pitaleshravani31@gmail.com)
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShravaniPitale&theme=onedark&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ShravaniPitale&show_icons=true&theme=tokyonight)
 ---
 
 <img src="https://komarev.com/ghpvc/?username=ShravaniPitale&label=Visitors&color=1E90FF&style=flat" alt="ShravaniPitale" />
