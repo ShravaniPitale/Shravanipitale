@@ -53,5 +53,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shravani-pitale/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="mailto:your.email@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://github.com/ShravaniPitale" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
